@@ -1,0 +1,8 @@
+version 0.1
+initial version.
+
+new in version 0.1.1
+added date and time functionality with insert F12, date doesn't work as expected, will be looked into.
+fixed major lag issues with speech.
+entirely changed the structure of the code in the exicution part, which lead to massive improvement in the speed.
+more key combinations should be easier to add now.
